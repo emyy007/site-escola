@@ -1,6 +1,6 @@
 body {
     background-color: rgb(98, 226, 108);
-    color:white;
+    color:rgb(7, 6, 6);
     font-size: 18px;
     font-style: bold;
 }
@@ -50,7 +50,7 @@ body {
 }
 
 .escola {
-	background-image: linear-gradient(BLACK,GREY);
+	background-image: linear-gradient(hwb(120 6% 48%),rgb(10, 9, 9));
   	display: flex;
  	align-items: center; 
 	justify-content: center;
@@ -70,7 +70,7 @@ body {
 }
 
 .turma {
-	background-image: linear-gradient(grey,black);
+	background-image: linear-gradient(rgb(15, 14, 14),hwb(120 6% 45%));
   	display: flex;
  	align-items: center; 
 	justify-content: center;
