@@ -50,7 +50,7 @@ body {
 }
 
 .escola {
-	background-image: linear-gradient(hwb(120 6% 48%),rgb(10, 9, 9));
+	background-image: linear-gradient(hwb(120 0% 53%),rgb(10, 9, 9));
   	display: flex;
  	align-items: center; 
 	justify-content: center;
@@ -70,7 +70,7 @@ body {
 }
 
 .turma {
-	background-image: linear-gradient(rgb(15, 14, 14),hwb(120 6% 45%));
+	background-image: linear-gradient(rgb(0, 114, 57),hwb(120 2% 78%));
   	display: flex;
  	align-items: center; 
 	justify-content: center;
